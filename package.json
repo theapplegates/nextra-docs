@@ -11,12 +11,14 @@
   "dependencies": {
     "@vercel/og": "^0.0.21",
     "clsx": "^1.2.1",
+    "eslint-plugin-tailwindcss": "^3.8.0",
     "framer-motion": "^8.0.0",
     "next": "^13.1.1",
     "nextra": "2.0.2",
     "nextra-theme-docs": "2.0.2",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "sharp": "^0.31.3"
   },
   "devDependencies": {
     "@types/node": "^18.11.9",
